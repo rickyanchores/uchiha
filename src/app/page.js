@@ -5,13 +5,14 @@ import About from "./Pages/About/About";
 import Gallery from "./Pages/Gallery/Gallery";
 import Faq from "./Pages/Faq/Faq";
 import Test from "./Pages/Test/Test";
+import Menu from "./Pages/Menu/Menu";
 
 const Home = () => {
   return (
     <main className="Home">
-      <h1>Sample</h1>
       <Nav />
       <Hero />
+      <Menu />
       <About />
       <Gallery />
       <Faq />
