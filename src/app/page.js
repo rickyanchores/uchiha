@@ -12,9 +12,9 @@ const Home = () => {
     <main className="Home">
       <Nav />
       <Hero />
-      <Menu />
       <About />
       <Gallery />
+      <Menu />
       <Faq />
     </main>
   );

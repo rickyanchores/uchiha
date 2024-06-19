@@ -3,7 +3,7 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div className='Nav bg-slate-100 text-gray-600 flex justify-between items-center p-4 m-4 sticky top-2'>
+    <div className='Nav bg-slate-100 text-gray-600 flex justify-between items-center p-4 m-4 sticky top-0'>
         <Link href="/#Hero"><h1 className='font-bold text-2xl'>uchiha</h1></Link>
         <ul className="navLinks flex justify-around items-center gap-4">
           <Link href="/#Menu">Menu</Link>
