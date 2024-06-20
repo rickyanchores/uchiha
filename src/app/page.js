@@ -6,6 +6,7 @@ import Gallery from "./Pages/Gallery/Gallery";
 import Faq from "./Pages/Faq/Faq";
 import Test from "./Pages/Test/Test";
 import Menu from "./Pages/Menu/Menu";
+import Time from "./Pages/Time/Time";
 
 const Home = () => {
   return (
@@ -13,6 +14,7 @@ const Home = () => {
       <Nav />
       <Hero />
       <About />
+      <Time />
       <Gallery />
       <Menu />
       <Faq />
