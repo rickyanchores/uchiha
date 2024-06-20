@@ -12,6 +12,9 @@ body{
   color: rgb(20, 20, 20);
   background-color: rgb(247, 238, 225);
 }
+.Nav{
+  background-color: rgb(247, 238, 225);
+}
 
 .Hero{
   background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("https://ichef.bbci.co.uk/images/ic/480xn/p0bzn2t7.jpg.webp");
