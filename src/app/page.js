@@ -18,6 +18,7 @@ const Home = () => {
       <Gallery />
       <Menu />
       <Faq />
+      <div className="">Dev by Ricky </div>
     </main>
   );
 }
