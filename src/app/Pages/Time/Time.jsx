@@ -6,7 +6,7 @@ const Time = () => {
         <div className="time-gridcontainer grid grid-cols-1 md:grid-cols-2 p-4 m-4">
             <div className="right"></div>
             <div className="left p-4">
-                <div className="time-title">
+                <div className="time-box hover:shadow-md p-4">
                     <h1 className='font-semibold text-2xl pb-14 between border-b-2 border-gray-400 uppercase'>Opening Hours</h1>
                     <div className="time-list font-bold uppercase">
                         <div className="time-item flex justify-between border-b-2 border-gray-400 pt-4 pb-4">
