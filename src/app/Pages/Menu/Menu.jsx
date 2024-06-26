@@ -6,7 +6,7 @@ const Menu = () => {
     <div className='Menu min-h-screen w-screen flex justify-center items-center' id='Menu'>
       <div className="Menu-container grid grid-cols-1 md:grid-cols-2 justify-center items-center">
       <div className="menuTitle flex justify-center items-center border-b-2 border-gray-400">
-        <h1 className='text-2xl font-extrabold'>Our Menu</h1>
+        <h1 className='text-6xl font-extrabold'>Menu</h1>
       </div>
       <div className="MenuItems hover:shadow-md p-4 m-4">
         {menuItems.map((item) => (
