@@ -1,4 +1,4 @@
-import Card from '@/app/Components/Card.jsx/Card';
+import Card from '@/app/Components/Card/Card';
 import React from 'react'
 
 const Gallery = () => {

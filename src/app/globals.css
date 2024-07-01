@@ -24,7 +24,7 @@ body{
 
 
 .Hero{
-  background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ),url("https://img.homejournal.com/202202/621717e6e6969.jpg");
+  background-color: black;
   background-size: cover;
   background-position: center;
 }
