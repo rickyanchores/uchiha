@@ -18,7 +18,7 @@ const Home = () => {
       <Gallery />
       <Menu />
       <Faq />
-      <div className="bg-red-700 text-white">Dev by Ricky </div>
+      <div className="bg-black text-white p-2 m-2 rounded-lg">Dev by Ricky </div>
     </main>
   );
 }
